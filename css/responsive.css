@@ -1,0 +1,60 @@
+@media screen and (max-width:1000px){
+
+    nav{
+        flex-direction: column;
+    }
+
+    .slider{
+        height: 23vh;
+    }
+
+    .logo{
+        justify-content: center;
+        margin: 5px 0;
+    }
+
+    nav ul{
+        justify-content: center;
+    }
+
+    .search{
+        justify-content: center;
+    }
+
+    .search input{
+        margin: 10px 16px;
+    }
+
+    nav ul {
+        height: 34px;
+    }
+    .card-item img{ 
+        width: 120px;
+    }
+    .column p{
+        font-size: 8px;
+    }
+    .footer .column a{
+        font-size: 4px;
+    }
+    .column .address{
+        font-size: 4px;
+    }
+    .footer-item img{
+        width: 5px;
+    }
+    .footer-item .payment{
+        width: 100px;
+    }
+    .footer-item p{
+        padding: 5px 1px;
+        font-size: 6px;
+    }
+    .footer-item{
+        padding: 10px 0;
+    }
+    .items-container .items-row .item img{
+        width: 60px;
+        height: 30px;
+    }
+}
